@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
 import { WebView, View } from 'react-native';
-import map from '../map.png';
-import base64 from 'base-64';
-import utf8 from 'utf8';
 
 let htmlPage;
 export default class FullScreenPhotoModal extends Component {
